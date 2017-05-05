@@ -1,0 +1,10 @@
+/Users/Development/Projects/csharp-readfile/csharp-readfile/bin/Debug/netcoreapp1.1/csharp-readfile.deps.json
+/Users/Development/Projects/csharp-readfile/csharp-readfile/bin/Debug/netcoreapp1.1/csharp-readfile.runtimeconfig.json
+/Users/Development/Projects/csharp-readfile/csharp-readfile/bin/Debug/netcoreapp1.1/csharp-readfile.runtimeconfig.dev.json
+/Users/Development/Projects/csharp-readfile/csharp-readfile/bin/Debug/netcoreapp1.1/csharp-readfile.dll
+/Users/Development/Projects/csharp-readfile/csharp-readfile/bin/Debug/netcoreapp1.1/csharp-readfile.pdb
+/Users/Development/Projects/csharp-readfile/csharp-readfile/obj/Debug/netcoreapp1.1/csharp-readfile.csprojResolveAssemblyReference.cache
+/Users/Development/Projects/csharp-readfile/csharp-readfile/obj/Debug/netcoreapp1.1/csharp-readfile.csproj.CoreCompileInputs.cache
+/Users/Development/Projects/csharp-readfile/csharp-readfile/obj/Debug/netcoreapp1.1/csharp-readfile.AssemblyInfo.cs
+/Users/Development/Projects/csharp-readfile/csharp-readfile/obj/Debug/netcoreapp1.1/csharp-readfile.dll
+/Users/Development/Projects/csharp-readfile/csharp-readfile/obj/Debug/netcoreapp1.1/csharp-readfile.pdb
